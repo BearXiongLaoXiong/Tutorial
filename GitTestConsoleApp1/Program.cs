@@ -10,7 +10,7 @@ namespace GitTestConsoleApp1
 
             Console.WriteLine("11111111111");
 
-            
+            Console.WriteLine("2222222222");
 
         }
     }
